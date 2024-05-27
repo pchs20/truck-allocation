@@ -1,0 +1,22 @@
+{
+    "products": ["toys", "treadmill", "locker", "costumes"],
+    "stock": {
+        "toys": 15,
+        "treadmill": 10,
+        "locker": 5,
+        "costumes": 20
+    },
+    "profits": {
+        "toys": 12,
+        "treadmill": 95.0,
+        "locker": 200,
+        "costumes": 40.0
+    },
+    "volume": {
+        "toys": 0.5,
+        "treadmill": 3.4,
+        "locker": 7.2,
+        "costumes": 1.4
+    },
+    "truck_volume": 50.0
+}
