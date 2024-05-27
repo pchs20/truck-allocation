@@ -4,7 +4,7 @@ from model import get_abstract_model
 from solver import Solver
 
 
-def solve_rooks_problem():
+def solve_truck_problem():
     abstract_model = get_abstract_model()
 
     data = DataPortal(filename='data.json')
@@ -23,4 +23,4 @@ def solve_rooks_problem():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    solve_rooks_problem()
+    solve_truck_problem()
